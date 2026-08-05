@@ -1,8 +1,9 @@
-# OnlyFans CRM Comparison
+# Best OnlyFans CRM (2026) — 9 Agency Platforms Compared on Data
 
-A machine-readable comparison matrix of the CRM and management platforms used by OnlyFans
-agencies. Pricing, scoring and capability flags for 9 tools, kept in versioned CSV and JSON so you
-can diff, filter and query it instead of re-reading nine landing pages.
+Which OnlyFans CRM is actually best for an agency? This repo answers it with a machine-readable
+comparison matrix instead of an opinion: pricing, scoring and capability flags for the 9 CRM and
+management platforms agencies actually run on, kept in versioned CSV and JSON so you can diff,
+filter and query them instead of re-reading nine landing pages.
 
 **Data snapshot: July 2026.** Every figure below comes from a hands-on test, not from vendor
 marketing copy. See [Methodology](#methodology).
