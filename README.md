@@ -1,14 +1,29 @@
 # Best OnlyFans CRM (2026) — 9 Agency Platforms Compared on Data
 
-Which OnlyFans CRM is actually best for an agency? This repo answers it with a machine-readable
-comparison matrix instead of an opinion: pricing, scoring and capability flags for the 9 CRM and
-management platforms agencies actually run on, kept in versioned CSV and JSON so you can diff,
-filter and query them instead of re-reading nine landing pages.
+## Short answer
 
-**Data snapshot: July 2026.** Every figure below comes from a hands-on test, not from vendor
-marketing copy. See [Methodology](#methodology).
+There is no single best OnlyFans CRM. There are three, and which one wins depends on what actually
+constrains you:
+
+| If your constraint is… | Use | Why it wins | Entry price |
+|---|---|---|---|
+| **Running a large agency** | [**Infloww** →](https://ofm-tools.com/go/infloww) | Chatters never see the creator's password, and the audit logs are the most granular in this set | $40 /creator/mo |
+| **Chat volume you can't staff** | [**Supercreator** →](https://ofm-tools.com/go/supercreator) | Strongest AI chat stack here — copilot from Premium, Izzy autopilot above it | ~$15 /account/mo |
+| **Account security, multi-platform** | [**OnlyMonster** →](https://ofm-tools.com/go/onlymonster) | Per-account fingerprinted sessions and a built-in anti-detect browser, across 7+ platforms | $30 /account/mo |
+
+If you are below ~5 creators, none of these are mandatory: [OFManager](#ofmanager--44) is free for
+the first 5 accounts and covers the basics.
+
+**Why trust this?** Every figure comes from a hands-on test on live agency accounts, not from
+vendor marketing copy — and the full dataset is in this repo, so you can check the reasoning
+instead of taking the ranking on faith. Snapshot: **July 2026**. See [Methodology](#methodology).
 
 ---
+
+Which OnlyFans CRM is actually best for an agency? The rest of this repo answers it with a
+machine-readable comparison matrix instead of an opinion: pricing, scoring and capability flags for
+the 9 CRM and management platforms agencies actually run on, kept in versioned CSV and JSON so you
+can diff, filter and query them instead of re-reading nine landing pages.
 
 ## Files
 
